@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="I as a user i require adding several products from different categories" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-16T01:50:05" hostname="DESKTOP-N23TVHT" time="33.468">
+  <properties/>
+  <testcase name="The user take a product from different categories" classname="I as a user i require adding several products from different categories" time="33.468"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[feb. 15, 2022 8:50:06 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 98.0.4758.80 (7f0488e8ba0d8e019187c6325a16c29d9b7f4989-refs/branch-heads/4758@{#972}) on port 39270
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+feb. 15, 2022 8:50:10 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[1644976235.373][WARNING]: unexpected alert open: {Alert text : Product added}, cancelling screenshot
+]]></system-err>
+</testsuite>
