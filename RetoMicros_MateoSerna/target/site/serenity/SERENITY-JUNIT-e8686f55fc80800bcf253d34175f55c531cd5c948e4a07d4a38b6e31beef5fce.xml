@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="I as a user i need to automate the proposed API" skipped="0" tests="2" time="0.28" timestamp="2022-02-16 11:41:37"><testcase name="Create the Auth Token"><error message="Could not initialize class io.restassured.RestAssured" type="java.lang.NoClassDefFoundError">Could not initialize class io.restassured.RestAssured</error><system-err>Could not initialize class io.restassured.RestAssured&#13;
+net.serenitybdd.rest.SerenityRest.given(SerenityRest.java:215)&#13;
+com.tevolvers.certification.api.tasks.UpdateBooking.performAs(UpdateBooking.java:24)&#13;
+com.tevolvers.certification.api.stepdefinitions.EscenarioUpdateStepDefinitions.theUserSendTheBookingRequest(EscenarioUpdateStepDefinitions.java:27)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase><testcase name="Update the booking from the API"><error message="Could not initialize class io.restassured.RestAssured" type="java.lang.NoClassDefFoundError">Could not initialize class io.restassured.RestAssured</error><system-err>Could not initialize class io.restassured.RestAssured&#13;
+net.serenitybdd.rest.SerenityRest.given(SerenityRest.java:215)&#13;
+com.tevolvers.certification.api.tasks.UpdateBooking.performAs(UpdateBooking.java:24)&#13;
+com.tevolvers.certification.api.stepdefinitions.EscenarioUpdateStepDefinitions.theUserSendTheBookingRequest(EscenarioUpdateStepDefinitions.java:27)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

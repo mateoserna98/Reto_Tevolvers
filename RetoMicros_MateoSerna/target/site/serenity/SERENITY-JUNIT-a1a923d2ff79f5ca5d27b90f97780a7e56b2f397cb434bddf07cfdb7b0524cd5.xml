@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="I as a user i need to automate the proposed API" skipped="0" tests="1" time="2.35" timestamp="2022-02-16 11:41:32"><testcase name="Create the booking of the API"><error message="Could not initialize class org.codehaus.groovy.reflection.ReflectionCache" type="java.lang.NoClassDefFoundError">Could not initialize class org.codehaus.groovy.reflection.ReflectionCache</error><system-err>Could not initialize class org.codehaus.groovy.reflection.ReflectionCache&#13;
+groovy.lang.GroovySystem.&lt;clinit&gt;(GroovySystem.java:36)&#13;
+io.restassured.internal.ResponseParserRegistrar.&lt;init&gt;(ResponseParserRegistrar.groovy)&#13;
+io.restassured.RestAssured.&lt;clinit&gt;(RestAssured.java:346)&#13;
+net.serenitybdd.rest.SerenityRest.given(SerenityRest.java:215)&#13;
+com.tevolvers.certification.api.tasks.UpdateBooking.performAs(UpdateBooking.java:24)&#13;
+com.tevolvers.certification.api.stepdefinitions.EscenarioUpdateStepDefinitions.theUserSendTheBookingRequest(EscenarioUpdateStepDefinitions.java:27)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

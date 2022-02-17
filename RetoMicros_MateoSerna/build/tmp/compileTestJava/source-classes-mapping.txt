@@ -1,0 +1,12 @@
+com/tevolvers/certification/api/stepdefinitions/EscenarioCreateStepDefinitions.java
+ com.tevolvers.certification.api.stepdefinitions.EscenarioCreateStepDefinitions
+com/tevolvers/certification/api/runners/EscenarioCreate.java
+ com.tevolvers.certification.api.runners.EscenarioCreate
+com/tevolvers/certification/api/runners/EscenarioGet.java
+ com.tevolvers.certification.api.runners.EscenarioGet
+com/tevolvers/certification/api/runners/EscenarioUpdate.java
+ com.tevolvers.certification.api.runners.EscenarioUpdate
+com/tevolvers/certification/api/stepdefinitions/EscenarioGetStepDefinitions.java
+ com.tevolvers.certification.api.stepdefinitions.EscenarioGetStepDefinitions
+com/tevolvers/certification/api/stepdefinitions/EscenarioUpdateStepDefinitions.java
+ com.tevolvers.certification.api.stepdefinitions.EscenarioUpdateStepDefinitions
