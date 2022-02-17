@@ -1,0 +1,21 @@
+# Reto_Tevolvers
+this is a repository created to the technical challenge
+
+Cordial saludo,
+
+como reto para el cargo de automatizador de pruebas, se realizaron los dos puntos propuestos, por lo cual indico de cómo ejecutar los proyectos
+Tener en cuenta: Principalmente se debe clonar el proyecto en una carpeta local
+para el reto de la página web:
+-el proyecto cuenta con el chromedriver instalado
+-se deben ejecutar las dependencias de gradle mapeadas en el proyecto para que al obtener los resultados, utilice estas librerías
+-ejecutar en la carpeta test/runners/AddProduct para su correcto funcionamiento
+-opcionalmente, se puede ejecutar desde la ventana de comandos, utilizando: gradle clean test aggregate
+
+Para el reto del microservicio:
+-se deben ejecutar las dependencias de gradle mapeadas en el proyecto para que al obtener los resultados, utilice estas librerías
+-ejecutar desde la ventana de comandos, utilizando: gradle clean test aggregate para obtener el informe
+
+Muchas gracias por su atención.
+
+Atentamente,
+Mateo Serna Sánchez
